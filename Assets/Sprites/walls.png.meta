@@ -193,11 +193,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 103
-        width: 32
-        height: 33
+        y: 102
+        width: 33
+        height: 34
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -214,12 +214,12 @@ TextureImporter:
       name: walls_1
       rect:
         serializedVersion: 2
-        x: 34
-        y: 103
-        width: 33
-        height: 33
+        x: 33
+        y: 102
+        width: 35
+        height: 34
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -236,12 +236,12 @@ TextureImporter:
       name: walls_2
       rect:
         serializedVersion: 2
-        x: 70
-        y: 103
+        x: 33
+        y: 68
         width: 32
-        height: 33
+        height: 35
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -258,12 +258,12 @@ TextureImporter:
       name: walls_3
       rect:
         serializedVersion: 2
-        x: 103
-        y: 103
-        width: 32
-        height: 33
+        x: 69
+        y: 102
+        width: 34
+        height: 34
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -280,12 +280,12 @@ TextureImporter:
       name: walls_4
       rect:
         serializedVersion: 2
-        x: 137
-        y: 103
+        x: 69
+        y: 68
         width: 34
-        height: 33
+        height: 35
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -302,12 +302,12 @@ TextureImporter:
       name: walls_5
       rect:
         serializedVersion: 2
-        x: 172
-        y: 103
-        width: 29
-        height: 33
+        x: 102
+        y: 102
+        width: 34
+        height: 34
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -324,12 +324,12 @@ TextureImporter:
       name: walls_6
       rect:
         serializedVersion: 2
-        x: 202
-        y: 103
-        width: 30
-        height: 33
+        x: 102
+        y: 68
+        width: 34
+        height: 35
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -346,12 +346,12 @@ TextureImporter:
       name: walls_7
       rect:
         serializedVersion: 2
-        x: 0
-        y: 36
-        width: 32
-        height: 63
+        x: 136
+        y: 102
+        width: 36
+        height: 34
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -368,12 +368,12 @@ TextureImporter:
       name: walls_8
       rect:
         serializedVersion: 2
-        x: 34
-        y: 69
-        width: 30
-        height: 33
+        x: 136
+        y: 68
+        width: 36
+        height: 35
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -390,12 +390,12 @@ TextureImporter:
       name: walls_9
       rect:
         serializedVersion: 2
-        x: 70
-        y: 69
-        width: 32
-        height: 33
+        x: 171
+        y: 102
+        width: 31
+        height: 34
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -412,12 +412,12 @@ TextureImporter:
       name: walls_10
       rect:
         serializedVersion: 2
-        x: 103
-        y: 69
-        width: 32
-        height: 33
+        x: 171
+        y: 68
+        width: 31
+        height: 35
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -434,12 +434,12 @@ TextureImporter:
       name: walls_11
       rect:
         serializedVersion: 2
-        x: 137
-        y: 69
-        width: 34
-        height: 33
+        x: 201
+        y: 102
+        width: 32
+        height: 34
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -456,12 +456,12 @@ TextureImporter:
       name: walls_12
       rect:
         serializedVersion: 2
-        x: 172
-        y: 69
-        width: 29
-        height: 33
+        x: 201
+        y: 68
+        width: 32
+        height: 35
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -478,12 +478,12 @@ TextureImporter:
       name: walls_13
       rect:
         serializedVersion: 2
-        x: 202
-        y: 69
-        width: 30
-        height: 33
+        x: 0
+        y: 35
+        width: 33
+        height: 65
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -500,12 +500,12 @@ TextureImporter:
       name: walls_14
       rect:
         serializedVersion: 2
-        x: 34
-        y: 35
-        width: 30
-        height: 33
+        x: 33
+        y: 34
+        width: 32
+        height: 35
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -522,12 +522,12 @@ TextureImporter:
       name: walls_15
       rect:
         serializedVersion: 2
-        x: 70
-        y: 35
-        width: 30
-        height: 33
+        x: 69
+        y: 34
+        width: 32
+        height: 35
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -544,12 +544,12 @@ TextureImporter:
       name: walls_16
       rect:
         serializedVersion: 2
-        x: 105
-        y: 35
-        width: 30
-        height: 33
+        x: 69
+        y: 0
+        width: 32
+        height: 35
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -566,12 +566,12 @@ TextureImporter:
       name: walls_17
       rect:
         serializedVersion: 2
-        x: 137
-        y: 33
+        x: 104
+        y: 34
         width: 32
-        height: 34
+        height: 35
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -588,12 +588,12 @@ TextureImporter:
       name: walls_18
       rect:
         serializedVersion: 2
-        x: 170
-        y: 33
+        x: 104
+        y: 0
         width: 32
-        height: 34
+        height: 35
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -610,12 +610,12 @@ TextureImporter:
       name: walls_19
       rect:
         serializedVersion: 2
-        x: 204
-        y: 33
-        width: 33
-        height: 34
+        x: 136
+        y: 32
+        width: 34
+        height: 36
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -632,12 +632,12 @@ TextureImporter:
       name: walls_20
       rect:
         serializedVersion: 2
-        x: 70
-        y: 0
-        width: 30
-        height: 34
+        x: 169
+        y: 32
+        width: 34
+        height: 36
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -654,12 +654,12 @@ TextureImporter:
       name: walls_21
       rect:
         serializedVersion: 2
-        x: 105
-        y: 0
-        width: 30
-        height: 34
+        x: 203
+        y: 32
+        width: 34
+        height: 36
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -676,7 +676,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 3c53249ac243f314190fbff2c245bcee
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
