@@ -35,7 +35,7 @@ public class LoadingWindow : MonoBehaviour
 
         // Загрузить следующую сцену  
 
-        asyncLoad = SceneManager.LoadSceneAsync("Main", LoadSceneMode.Single); 
+        asyncLoad = SceneManager.LoadSceneAsync("Game", LoadSceneMode.Single); 
         if (asyncLoad.isDone)
         {
             for (int i = 0; i < playerVisuality.Length; ++i)

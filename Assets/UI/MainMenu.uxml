@@ -1,0 +1,11 @@
+<engine:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:engine="UnityEngine.UIElements" xmlns:editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI/styleButtons.uss?fileID=7433441132597879392&amp;guid=09721f8b9e791604e87366ca549a85a4&amp;type=3#styleButtons" />
+    <engine:VisualElement name="MainBlock" style="flex-grow: 1; background-image: url(&quot;project://database/Assets/Graphics/Sprites/BackgroundMainMenu.png?fileID=-4559203394322302271&amp;guid=8a356f047b3539f42866594c5d9c7316&amp;type=3#BackgroundMainMenu_0&quot;);">
+        <engine:VisualElement name="ButtonsBlock" style="flex-grow: 1; margin-top: 8%; margin-right: 35%; margin-bottom: 8%; margin-left: 35%; flex-basis: auto;">
+            <engine:Button text="Начать" name="Start" class="buttons" style="font-size: 40%;" />
+            <engine:Button text="Загрузить" name="Load" class="buttons" style="font-size: 40%;" />
+            <engine:Button text="Настройки&#10;" name="Settings" class="buttons" style="font-size: 40%;" />
+            <engine:Button text="Выйти" name="Exit" class="buttons" style="font-size: 40%; margin-bottom: 0;" />
+        </engine:VisualElement>
+    </engine:VisualElement>
+</engine:UXML>

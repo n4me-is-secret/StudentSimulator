@@ -1,0 +1,44 @@
+.buttons {
+    width: 100%;
+    height: 14%;
+    font-size: 40%;
+    -unity-font-style: bold;
+    -unity-font-definition: url("project://database/Assets/Graphics/TextMesh%20Pro/Examples%20&%20Extras/Fonts/Anton.ttf?fileID=12800000&guid=997a43b767814dd0a7642ec9b78cba41&type=3#Anton");
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+    border-top-width: 10px;
+    border-right-width: 10px;
+    border-bottom-width: 10px;
+    border-left-width: 10px;
+    border-left-color: rgb(43, 43, 43);
+    border-right-color: rgb(43, 43, 43);
+    border-top-color: rgb(43, 43, 43);
+    border-bottom-color: rgb(43, 43, 43);
+    background-color: rgb(204, 204, 204);
+    margin-bottom: 12%;
+}
+
+.buttons:hover {
+    width: 100%;
+    height: 14%;
+    font-size: 40%;
+    -unity-font-style: bold;
+    -unity-font-definition: url("project://database/Assets/Graphics/TextMesh%20Pro/Examples%20&%20Extras/Fonts/Anton.ttf?fileID=12800000&guid=997a43b767814dd0a7642ec9b78cba41&type=3#Anton");
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+    border-top-width: 10px;
+    border-right-width: 10px;
+    border-bottom-width: 10px;
+    border-left-width: 10px;
+    border-left-color: rgb(192, 192, 192);
+    border-right-color: rgb(192, 192, 192);
+    border-top-color: rgb(192, 192, 192);
+    border-bottom-color: rgb(192, 192, 192);
+    background-color: rgb(55, 55, 55);
+    margin-bottom: 12%;
+    color: rgb(178, 178, 178);
+}
