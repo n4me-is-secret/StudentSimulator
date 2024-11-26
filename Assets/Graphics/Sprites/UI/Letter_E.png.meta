@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 8a356f047b3539f42866594c5d9c7316
+guid: fba5e921f9e827f4e807863a5cec7eb7
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -4559203394322302271
-    second: BackgroundMainMenu_0
+      213: -2713192072777255149
+    second: Letter_E_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -37,7 +37,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -51,7 +51,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -75,7 +75,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: BackgroundMainMenu_0
+      name: Letter_E_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 1278
-        height: 714
+        x: 6
+        y: 6
+        width: 52
+        height: 52
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1caf9a62ba47ab0c0800000000000000
-      internalID: -4559203394322302271
+      spriteID: 317b4b65f2ec85ad0800000000000000
+      internalID: -2713192072777255149
       vertices: []
       indices: 
       edges: []
@@ -125,7 +125,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: fdeb12a022112a646bbdf8295d190fdc
     internalID: 0
     vertices: []
     indices: 
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      BackgroundMainMenu_0: -4559203394322302271
+      Letter_E_0: -2713192072777255149
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
