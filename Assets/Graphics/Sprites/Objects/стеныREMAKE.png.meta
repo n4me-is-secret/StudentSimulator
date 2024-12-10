@@ -41,6 +41,9 @@ TextureImporter:
   - first:
       213: -72250822076373041
     second: "\u0441\u0442\u0435\u043D\u044BREMAKE_12"
+  - first:
+      213: -2706756675289751449
+    second: "\u0441\u0442\u0435\u043D\u044BREMAKE_13"
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -87,7 +90,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 15
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -120,7 +123,33 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 4
+    buildTarget: Win64
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
     buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -139,10 +168,10 @@ TextureImporter:
       name: "\u0441\u0442\u0435\u043D\u044BREMAKE_0"
       rect:
         serializedVersion: 2
-        x: 1
-        y: 165
-        width: 32
-        height: 32
+        x: 0
+        y: 164
+        width: 34
+        height: 34
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -161,10 +190,10 @@ TextureImporter:
       name: "\u0441\u0442\u0435\u043D\u044BREMAKE_1"
       rect:
         serializedVersion: 2
-        x: 34
-        y: 165
-        width: 32
-        height: 32
+        x: 0
+        y: 131
+        width: 34
+        height: 34
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -183,10 +212,10 @@ TextureImporter:
       name: "\u0441\u0442\u0435\u043D\u044BREMAKE_2"
       rect:
         serializedVersion: 2
-        x: 67
-        y: 165
-        width: 32
-        height: 32
+        x: 33
+        y: 164
+        width: 34
+        height: 34
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -205,10 +234,10 @@ TextureImporter:
       name: "\u0441\u0442\u0435\u043D\u044BREMAKE_3"
       rect:
         serializedVersion: 2
-        x: 100
-        y: 165
-        width: 32
-        height: 32
+        x: 33
+        y: 131
+        width: 34
+        height: 34
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -227,10 +256,10 @@ TextureImporter:
       name: "\u0441\u0442\u0435\u043D\u044BREMAKE_4"
       rect:
         serializedVersion: 2
-        x: 133
-        y: 165
-        width: 32
-        height: 32
+        x: 66
+        y: 164
+        width: 34
+        height: 34
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -249,10 +278,10 @@ TextureImporter:
       name: "\u0441\u0442\u0435\u043D\u044BREMAKE_5"
       rect:
         serializedVersion: 2
-        x: 1
-        y: 132
-        width: 32
-        height: 32
+        x: 66
+        y: 131
+        width: 34
+        height: 34
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -271,10 +300,10 @@ TextureImporter:
       name: "\u0441\u0442\u0435\u043D\u044BREMAKE_6"
       rect:
         serializedVersion: 2
-        x: 34
-        y: 132
-        width: 32
-        height: 32
+        x: 99
+        y: 164
+        width: 34
+        height: 34
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -293,10 +322,10 @@ TextureImporter:
       name: "\u0441\u0442\u0435\u043D\u044BREMAKE_7"
       rect:
         serializedVersion: 2
-        x: 67
-        y: 132
-        width: 32
-        height: 32
+        x: 99
+        y: 131
+        width: 34
+        height: 34
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -315,10 +344,10 @@ TextureImporter:
       name: "\u0441\u0442\u0435\u043D\u044BREMAKE_8"
       rect:
         serializedVersion: 2
-        x: 133
-        y: 132
-        width: 32
-        height: 32
+        x: 132
+        y: 164
+        width: 34
+        height: 34
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -337,10 +366,10 @@ TextureImporter:
       name: "\u0441\u0442\u0435\u043D\u044BREMAKE_9"
       rect:
         serializedVersion: 2
-        x: 1
-        y: 99
-        width: 32
-        height: 32
+        x: 132
+        y: 131
+        width: 34
+        height: 34
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -359,10 +388,10 @@ TextureImporter:
       name: "\u0441\u0442\u0435\u043D\u044BREMAKE_10"
       rect:
         serializedVersion: 2
-        x: 34
-        y: 99
-        width: 32
-        height: 32
+        x: 0
+        y: 98
+        width: 34
+        height: 34
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -381,10 +410,10 @@ TextureImporter:
       name: "\u0441\u0442\u0435\u043D\u044BREMAKE_11"
       rect:
         serializedVersion: 2
-        x: 67
-        y: 99
-        width: 32
-        height: 32
+        x: 33
+        y: 98
+        width: 34
+        height: 34
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -403,10 +432,10 @@ TextureImporter:
       name: "\u0441\u0442\u0435\u043D\u044BREMAKE_12"
       rect:
         serializedVersion: 2
-        x: 133
-        y: 99
-        width: 32
-        height: 32
+        x: 66
+        y: 98
+        width: 34
+        height: 34
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -421,11 +450,33 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: "\u0441\u0442\u0435\u043D\u044BREMAKE_13"
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 98
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 760efe3152baf6ad0800000000000000
+      internalID: -2706756675289751449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 8625f707ae8bf3047aad7d8fc0885a12
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -440,6 +491,7 @@ TextureImporter:
       "\u0441\u0442\u0435\u043D\u044BREMAKE_10": -4197355283058905614
       "\u0441\u0442\u0435\u043D\u044BREMAKE_11": 1878870707075824643
       "\u0441\u0442\u0435\u043D\u044BREMAKE_12": -72250822076373041
+      "\u0441\u0442\u0435\u043D\u044BREMAKE_13": -2706756675289751449
       "\u0441\u0442\u0435\u043D\u044BREMAKE_2": 2527828118075962994
       "\u0441\u0442\u0435\u043D\u044BREMAKE_3": -7080012801059659739
       "\u0441\u0442\u0435\u043D\u044BREMAKE_4": -5428842720094420978
