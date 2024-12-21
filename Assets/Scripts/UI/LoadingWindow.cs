@@ -35,15 +35,15 @@ public class LoadingWindow : MonoBehaviour
 
         // Загрузить следующую сцену  
 
-        asyncLoad = SceneManager.LoadSceneAsync("Game", LoadSceneMode.Single); 
-        if (asyncLoad.isDone)
+        asyncLoad = SceneManager.LoadSceneAsync("Introduction", LoadSceneMode.Single); 
+        /*if (asyncLoad.isDone)
         {
             for (int i = 0; i < playerVisuality.Length; ++i)
             {
                 anim = playerVisuality[i].GetComponent<Animator>();
                 anim.SetBool("isMoving", false);
             }
-        }
+        }*/
 
     }
 
